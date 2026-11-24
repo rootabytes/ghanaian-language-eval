@@ -1,0 +1,824 @@
+{"set": "akuapem150", "id": "a150-000", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nhoahoa wo ho bio!"}
+{"set": "akuapem150", "id": "a150-001", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnhyɛ apontow no ase."}
+{"set": "akuapem150", "id": "a150-002", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma minhu nea wubehu."}
+{"set": "akuapem150", "id": "a150-003", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hwɛ wo mfɛnsere mu."}
+{"set": "akuapem150", "id": "a150-004", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka nea enti a wususuw sɛ worentumi nnye me nni no kyerɛ me."}
+{"set": "akuapem150", "id": "a150-005", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnka biribi foforo ho asɛm."}
+{"set": "akuapem150", "id": "a150-006", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma minhu wo address foforo no."}
+{"set": "akuapem150", "id": "a150-007", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Twɛn benkum."}
+{"set": "akuapem150", "id": "a150-008", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnhwehwɛ asɛm no mu yiye."}
+{"set": "akuapem150", "id": "a150-009", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bisa no nea wayɛ."}
+{"set": "akuapem150", "id": "a150-010", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Momma yennya anidaso sɛ yɛbɛkɔ hɔ wɔ bere mu."}
+{"set": "akuapem150", "id": "a150-011", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa aspirin no bi."}
+{"set": "akuapem150", "id": "a150-012", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnhwɛ nea ebesi."}
+{"set": "akuapem150", "id": "a150-013", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Monhwɛ mo nan so, fam no yɛ sakasaka."}
+{"set": "akuapem150", "id": "a150-014", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma Kwabena nkɔ."}
+{"set": "akuapem150", "id": "a150-015", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kenkan nhoma yi bere a w'ani gye."}
+{"set": "akuapem150", "id": "a150-016", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Tena ase na mia w'ani."}
+{"set": "akuapem150", "id": "a150-017", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnnidi."}
+{"set": "akuapem150", "id": "a150-018", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnnidi sushi."}
+{"set": "akuapem150", "id": "a150-019", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka nsɛm a esisii no ho asɛm kyerɛ me."}
+{"set": "akuapem150", "id": "a150-020", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka kyerɛ me bere a ɛsɛ sɛ migyae."}
+{"set": "akuapem150", "id": "a150-021", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fi ase fi mfiase."}
+{"set": "akuapem150", "id": "a150-022", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kɔda hɔ."}
+{"set": "akuapem150", "id": "a150-023", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hwɛ m'akyi."}
+{"set": "akuapem150", "id": "a150-024", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fi gyinabea hɔ na twe nifa."}
+{"set": "akuapem150", "id": "a150-025", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka nea meka kyerɛɛ wo no kyerɛ wɔn."}
+{"set": "akuapem150", "id": "a150-026", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnsɔ nhwɛ."}
+{"set": "akuapem150", "id": "a150-027", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa Asamoah kɔ abɔnten."}
+{"set": "akuapem150", "id": "a150-028", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "San kɔ w'adwuma so."}
+{"set": "akuapem150", "id": "a150-029", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kɔtena ase, Kwaku."}
+{"set": "akuapem150", "id": "a150-030", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnhwɛ sɛ yɛwɔ nea yehia nyinaa."}
+{"set": "akuapem150", "id": "a150-031", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hwɛ dua a ɛwɔ abɔnten hɔ no."}
+{"set": "akuapem150", "id": "a150-032", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnnom bia bio."}
+{"set": "akuapem150", "id": "a150-033", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hwɛ, mewɔ adwuma kakra."}
+{"set": "akuapem150", "id": "a150-034", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnsan nkɔ Japan mmom."}
+{"set": "akuapem150", "id": "a150-035", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Twɛn kakra, mesrɛ wo, mɛhwɛ sɛ ɔwɔ hɔ anaa."}
+{"set": "akuapem150", "id": "a150-036", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa safe no brɛ me."}
+{"set": "akuapem150", "id": "a150-037", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bra bɛdidi wɔ yɛn nkyɛn."}
+{"set": "akuapem150", "id": "a150-038", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bue daka no mu."}
+{"set": "akuapem150", "id": "a150-039", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bra bɛhwɛ."}
+{"set": "akuapem150", "id": "a150-040", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa kɔfe brɛ me, mesrɛ wo."}
+{"set": "akuapem150", "id": "a150-041", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma wo nsa ngu fam."}
+{"set": "akuapem150", "id": "a150-042", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka kyerɛ Asamoah sɛ mewɔ nhyiam ase."}
+{"set": "akuapem150", "id": "a150-043", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kɔtena agua no so."}
+{"set": "akuapem150", "id": "a150-044", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa biribiara hyɛ me kare no mu."}
+{"set": "akuapem150", "id": "a150-045", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bisa wo ho nea enti a ɛte saa."}
+{"set": "akuapem150", "id": "a150-046", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yensusuw wo daakye ho aniberesɛm."}
+{"set": "akuapem150", "id": "a150-047", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hwɛ, madi nna tenten bi, na mepɛ sɛ mekɔda seesei ara."}
+{"set": "akuapem150", "id": "a150-048", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bisa no baabi a ɔde ne kar no too."}
+{"set": "akuapem150", "id": "a150-049", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa kɔma Kwaku."}
+{"set": "akuapem150", "id": "a150-050", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa aduro no yɛ adwuma dɔnhwerew biara."}
+{"set": "akuapem150", "id": "a150-051", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bra bɛhwɛ me."}
+{"set": "akuapem150", "id": "a150-052", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka kyerɛ no sɛ mereguare."}
+{"set": "akuapem150", "id": "a150-053", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnkɔ nsu ani."}
+{"set": "akuapem150", "id": "a150-054", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hwɛ ɔdan kɔkɔɔ no."}
+{"set": "akuapem150", "id": "a150-055", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kɔhyia Kwabena."}
+{"set": "akuapem150", "id": "a150-056", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka kyerɛ Kwabena sɛ mɛkɔ ne fie anwummere yi."}
+{"set": "akuapem150", "id": "a150-057", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mesrɛ mo, munnyina hɔ kakra."}
+{"set": "akuapem150", "id": "a150-058", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Twɛn kosi sɛ nnipakuw no bɛhwete."}
+{"set": "akuapem150", "id": "a150-059", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Twɛn yɛn."}
+{"set": "akuapem150", "id": "a150-060", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bra ha ntɛm."}
+{"set": "akuapem150", "id": "a150-061", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hu me mmɔbɔ."}
+{"set": "akuapem150", "id": "a150-062", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yenni tennis anwummere yi."}
+{"set": "akuapem150", "id": "a150-063", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma me kyerɛwtohɔ no Memeneda."}
+{"set": "akuapem150", "id": "a150-064", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Twe wo ho fi hama no ho."}
+{"set": "akuapem150", "id": "a150-065", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kenkan nhoma dodow biara a wubetumi."}
+{"set": "akuapem150", "id": "a150-066", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yi w'adwene fi w'adwenem."}
+{"set": "akuapem150", "id": "a150-067", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yɛ radio no ma me, mesrɛ wo."}
+{"set": "akuapem150", "id": "a150-068", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma Asamoah mmua."}
+{"set": "akuapem150", "id": "a150-069", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Twe wo ho fi asisisɛm ho na ka nea wugye di ankasa kyerɛ yɛn."}
+{"set": "akuapem150", "id": "a150-070", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mommma yɛnntena ha bere tenten."}
+{"set": "akuapem150", "id": "a150-071", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka wo ho asɛm kyerɛ me."}
+{"set": "akuapem150", "id": "a150-072", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hwɛ Asamoah yiye."}
+{"set": "akuapem150", "id": "a150-073", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hwɛ map no wɔ kratafa 25."}
+{"set": "akuapem150", "id": "a150-074", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yensua Engiresi."}
+{"set": "akuapem150", "id": "a150-075", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma me mmoa wo mma wonhyɛ w'atade."}
+{"set": "akuapem150", "id": "a150-076", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kyerɛw nkyerɛwde no akɛse."}
+{"set": "akuapem150", "id": "a150-077", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Momfa mo kanea no mu."}
+{"set": "akuapem150", "id": "a150-078", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Tie no yiye na yɛ nea meka akyerɛ wo no pɛpɛɛpɛ."}
+{"set": "akuapem150", "id": "a150-079", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hwɛ saa omununkum no."}
+{"set": "akuapem150", "id": "a150-080", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma me bere kakra."}
+{"set": "akuapem150", "id": "a150-081", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yensusuw nneɛma pa a ɛwɔ mu no ho nhwɛ."}
+{"set": "akuapem150", "id": "a150-082", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kyerɛ me nea woatɔ."}
+{"set": "akuapem150", "id": "a150-083", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa borɔdɔma dodow biara a wopɛ."}
+{"set": "akuapem150", "id": "a150-084", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hu nea ɛhaw no."}
+{"set": "akuapem150", "id": "a150-085", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛn werɛ mfi ne nyinaa, OK?"}
+{"set": "akuapem150", "id": "a150-086", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Sɛ wopɛ a, wo ne yɛn mmra."}
+{"set": "akuapem150", "id": "a150-087", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Monso abɔso no mu dennen."}
+{"set": "akuapem150", "id": "a150-088", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnkɔhwehwɛ Asamoah."}
+{"set": "akuapem150", "id": "a150-089", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka wo mmofraberem ho asɛm kyerɛ yɛn."}
+{"set": "akuapem150", "id": "a150-090", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Sɛ wubetumi a, bra."}
+{"set": "akuapem150", "id": "a150-091", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa w'atade no hyɛ."}
+{"set": "akuapem150", "id": "a150-092", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bisa no nea ɔtɔɔ."}
+{"set": "akuapem150", "id": "a150-093", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa ne fã ma me."}
+{"set": "akuapem150", "id": "a150-094", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka kyerɛ Asamoah sɛ mɛba hɔ simma aduasa mu."}
+{"set": "akuapem150", "id": "a150-095", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Da mpue kakra wɔ sofa no so."}
+{"set": "akuapem150", "id": "a150-096", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa ahyɛnsode yi ka wo ho. Ebetumi aba wo mfaso."}
+{"set": "akuapem150", "id": "a150-097", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka kyerɛ Asamoah sɛ merenni hɔ."}
+{"set": "akuapem150", "id": "a150-098", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnhwɛ nea ebesi."}
+{"set": "akuapem150", "id": "a150-099", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka nsɛm no nyinaa kyerɛ me."}
+{"set": "akuapem150", "id": "a150-100", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma me sika kakra."}
+{"set": "akuapem150", "id": "a150-101", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hwɛ wo kasa yiye."}
+{"set": "akuapem150", "id": "a150-102", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Sɛ osu tɔ a, fa wo nnyansramma no ka wo ho."}
+{"set": "akuapem150", "id": "a150-103", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma me biribi nnom."}
+{"set": "akuapem150", "id": "a150-104", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kyerɛ me afiri foforo bi."}
+{"set": "akuapem150", "id": "a150-105", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka nea woredwen ho no kyerɛ me."}
+{"set": "akuapem150", "id": "a150-106", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Monhyɛ hama no mu den."}
+{"set": "akuapem150", "id": "a150-107", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnyɛ no Dwoda anwummere."}
+{"set": "akuapem150", "id": "a150-108", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛmfa no sɛ yɛwɔ aware a anigye wom."}
+{"set": "akuapem150", "id": "a150-109", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Twɛn wɔ ha."}
+{"set": "akuapem150", "id": "a150-110", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mommma yɛnnhintaw no."}
+{"set": "akuapem150", "id": "a150-111", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka nea Asamoah kae no kyerɛ me."}
+{"set": "akuapem150", "id": "a150-112", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka saa ɔbarima no ho asɛm kyerɛ me."}
+{"set": "akuapem150", "id": "a150-113", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yɛbɛhyia wɔ 2:30."}
+{"set": "akuapem150", "id": "a150-114", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnkɔfa kɔfe kakra."}
+{"set": "akuapem150", "id": "a150-115", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bue pon no na ma ɔkraman no mmra mu."}
+{"set": "akuapem150", "id": "a150-116", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnyɛ adwuma no."}
+{"set": "akuapem150", "id": "a150-117", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Momma yɛnto nsa mma Asamoah."}
+{"set": "akuapem150", "id": "a150-118", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Momma yɛmfa bɔs nkɔ."}
+{"set": "akuapem150", "id": "a150-119", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mommra ntɛm anaasɛ aduan biara nni hɔ bio."}
+{"set": "akuapem150", "id": "a150-120", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "San bra fie."}
+{"set": "akuapem150", "id": "a150-121", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa ma obiara a wopɛ."}
+{"set": "akuapem150", "id": "a150-122", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa nkatabo abien gu mpa no so."}
+{"set": "akuapem150", "id": "a150-123", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bra ha na kyekyere me."}
+{"set": "akuapem150", "id": "a150-124", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yensua beae a ɛto so anan no."}
+{"set": "akuapem150", "id": "a150-125", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnkɔbɔ chess."}
+{"set": "akuapem150", "id": "a150-126", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bisa no sɛ ɔbɛba nhyiam no anaa."}
+{"set": "akuapem150", "id": "a150-127", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma me ne wo nkɔ."}
+{"set": "akuapem150", "id": "a150-128", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Di kar no akyi."}
+{"set": "akuapem150", "id": "a150-129", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bra bɛhyia nnipa nyinaa."}
+{"set": "akuapem150", "id": "a150-130", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa abɔnten a edi kan no fa nifa."}
+{"set": "akuapem150", "id": "a150-131", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa tuo no to pon no so."}
+{"set": "akuapem150", "id": "a150-132", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa wo ho to hama no so."}
+{"set": "akuapem150", "id": "a150-133", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Momma yensusuw asɛm yi ho biako."}
+{"set": "akuapem150", "id": "a150-134", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa sika no na guan."}
+{"set": "akuapem150", "id": "a150-135", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mommma yɛnnhwɛ TV."}
+{"set": "akuapem150", "id": "a150-136", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yɛsrɛ wo, twa mpomma no mu."}
+{"set": "akuapem150", "id": "a150-137", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kenkan nsɛm a ɛwɔ nkyekyɛm no ntam no."}
+{"set": "akuapem150", "id": "a150-138", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kyerɛkyerɛ sɛnea esii no mu kyerɛ me."}
+{"set": "akuapem150", "id": "a150-139", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bisa polisifo no."}
+{"set": "akuapem150", "id": "a150-140", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka kyerɛ no sɛ ɔmmra nhyiam no bi."}
+{"set": "akuapem150", "id": "a150-141", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma mimmisa wo biribi, Kwabena. Wugye di sɛ yɛwɔ ho kwan ankasa?"}
+{"set": "akuapem150", "id": "a150-142", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma menka Boston ho asɛm bi nkyerɛ wo."}
+{"set": "akuapem150", "id": "a150-143", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mesrɛ wo, ma me biribi nnom."}
+{"set": "akuapem150", "id": "a150-144", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnkɔ taksi."}
+{"set": "akuapem150", "id": "a150-145", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma me bere kakra mfa nsusuw ho."}
+{"set": "akuapem150", "id": "a150-146", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Sɛ ɔba a, momma yɛnyɛ."}
+{"set": "akuapem150", "id": "a150-147", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka nea menyɛ wɔ ho no kyerɛ me."}
+{"set": "akuapem150", "id": "a150-148", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa nhoma a wɔagyaw wɔ pon so no."}
+{"set": "akuapem150", "id": "a150-149", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nnyae m'ani so hwɛ saa."}
+{"set": "crowd674", "id": "c697-000", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Dɛn na ɛrekɔ so wɔ ha?"}
+{"set": "crowd674", "id": "c697-001", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nyan! Nyan!"}
+{"set": "crowd674", "id": "c697-002", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔba ha Fida biara"}
+{"set": "crowd674", "id": "c697-003", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Sua nyansa"}
+{"set": "crowd674", "id": "c697-004", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mannye anni sɛ wobɛyera w'akwan mu"}
+{"set": "crowd674", "id": "c697-005", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Sɛ wopɛ sɛ wode nsɛmfua mmienu anaa nea ɛboro saa di dwuma wɔ Borɔfo kasa mu a"}
+{"set": "crowd674", "id": "c697-006", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me mma no rehaw me."}
+{"set": "crowd674", "id": "c697-007", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me din de Simeon"}
+{"set": "crowd674", "id": "c697-008", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Dwen wo ho"}
+{"set": "crowd674", "id": "c697-009", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Eyi yɛ asɛmpa"}
+{"set": "crowd674", "id": "c697-010", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa ma wo nua no"}
+{"set": "crowd674", "id": "c697-011", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mε dↄ wo akↄsi awieyε"}
+{"set": "crowd674", "id": "c697-012", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔdɔ ne nea ehia yɛn nyinaa"}
+{"set": "crowd674", "id": "c697-013", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo ho te sɛn?"}
+{"set": "crowd674", "id": "c697-015", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ani gye wo ho."}
+{"set": "crowd674", "id": "c697-016", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ani gye wo ho paa"}
+{"set": "crowd674", "id": "c697-017", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bra na yɛnkɔ"}
+{"set": "crowd674", "id": "c697-018", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nea wohu ne nea wogye di"}
+{"set": "crowd674", "id": "c697-019", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ahunu wo berɛ tenten"}
+{"set": "crowd674", "id": "c697-020", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnkɔyi dwa"}
+{"set": "crowd674", "id": "c697-021", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛyɛɛ dɛn na wo maame antumi ankɔ asɔre?"}
+{"set": "crowd674", "id": "c697-022", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔbea ntini"}
+{"set": "crowd674", "id": "c697-023", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Dɛn na wopɛ wɔ ha?"}
+{"set": "crowd674", "id": "c697-024", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bere koro no ara mu no, na n'anim agu ase mprenu."}
+{"set": "crowd674", "id": "c697-025", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Osetie yɛ sene afɔrebɔ"}
+{"set": "crowd674", "id": "c697-026", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Onyankopɔn nhu mo mma mmɔbɔ"}
+{"set": "crowd674", "id": "c697-028", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wɔresɛe yɛn din"}
+{"set": "crowd674", "id": "c697-029", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me ho yeraw me."}
+{"set": "crowd674", "id": "c697-030", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mommrɛ mo ho ase"}
+{"set": "crowd674", "id": "c697-031", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So wodɔ me?"}
+{"set": "crowd674", "id": "c697-032", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Eyi yɛ nwonwa wɔ yɛn ani so"}
+{"set": "crowd674", "id": "c697-034", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me nso m'ani gye ho"}
+{"set": "crowd674", "id": "c697-035", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "akuraafoɔ"}
+{"set": "crowd674", "id": "c697-036", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Merekɔ sukuu"}
+{"set": "crowd674", "id": "c697-037", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo ho ye"}
+{"set": "crowd674", "id": "c697-038", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "koma a ɛyɛ dɛ"}
+{"set": "crowd674", "id": "c697-039", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Onyankopɔn dom"}
+{"set": "crowd674", "id": "c697-040", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kɔ na kɔtɔ bi, ɛyɛ dɛ"}
+{"set": "crowd674", "id": "c697-041", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mewɔ kɔm"}
+{"set": "crowd674", "id": "c697-042", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me din de Afia Serwaa"}
+{"set": "crowd674", "id": "c697-043", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mɛdi nkonim"}
+{"set": "crowd674", "id": "c697-044", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛho hia sɛ yɛtwɛn."}
+{"set": "crowd674", "id": "c697-045", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛyɛ nwonwa!"}
+{"set": "crowd674", "id": "c697-046", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Osu retɔ"}
+{"set": "crowd674", "id": "c697-047", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔyare kokoram."}
+{"set": "crowd674", "id": "c697-048", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bra fie. Kɔ fie."}
+{"set": "crowd674", "id": "c697-049", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Merebɛtɔ nkranbe."}
+{"set": "crowd674", "id": "c697-050", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Eyi ne sika no"}
+{"set": "crowd674", "id": "c697-051", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛyɛ nokware"}
+{"set": "crowd674", "id": "c697-052", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo din de sɛn?"}
+{"set": "crowd674", "id": "c697-053", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Deɛn ntia?"}
+{"set": "crowd674", "id": "c697-054", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mɛkɔ akɔda"}
+{"set": "crowd674", "id": "c697-055", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Biribiara bɛyɛ yiye."}
+{"set": "crowd674", "id": "c697-056", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Biribiara bɛyɛ yiye."}
+{"set": "crowd674", "id": "c697-057", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "mesrɛ wo"}
+{"set": "crowd674", "id": "c697-058", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Obiara ho ye"}
+{"set": "crowd674", "id": "c697-059", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ne ho ye"}
+{"set": "crowd674", "id": "c697-060", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Aduane no asiesie"}
+{"set": "crowd674", "id": "c697-061", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So wopɛ sɛ wugyae seesei?"}
+{"set": "crowd674", "id": "c697-062", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo din de sɛn?"}
+{"set": "crowd674", "id": "c697-063", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo din de sɛn?"}
+{"set": "crowd674", "id": "c697-064", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo din de sɛn?"}
+{"set": "crowd674", "id": "c697-065", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "anɔpa pa"}
+{"set": "crowd674", "id": "c697-066", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "anɔpa pa"}
+{"set": "crowd674", "id": "c697-067", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "yebehu mo akyiri yi"}
+{"set": "crowd674", "id": "c697-068", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "mifi Australia"}
+{"set": "crowd674", "id": "c697-069", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mebaa nsrahwɛ"}
+{"set": "crowd674", "id": "c697-070", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Woanya bere tenten ahe wɔ ha?"}
+{"set": "crowd674", "id": "c697-071", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ma yɛnkɔ asɔre"}
+{"set": "crowd674", "id": "c697-072", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ma yɛnkɔ asɔre"}
+{"set": "crowd674", "id": "c697-073", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "yɛrekɔnom bi"}
+{"set": "crowd674", "id": "c697-074", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "yɛrebɛhwehwɛ biribi anom"}
+{"set": "crowd674", "id": "c697-075", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mewɔ ha"}
+{"set": "crowd674", "id": "c697-076", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me ho ayɛ me ma"}
+{"set": "crowd674", "id": "c697-077", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ahoɔhyeɛ bosome"}
+{"set": "crowd674", "id": "c697-078", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ewia yɛ hyerɛn"}
+{"set": "crowd674", "id": "c697-079", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Eyi yɛ fɛ"}
+{"set": "crowd674", "id": "c697-080", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "w'adesoa no sua dodo, ma me 7 cedis"}
+{"set": "crowd674", "id": "c697-081", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "yɛabɛyɛ nnamfo"}
+{"set": "crowd674", "id": "c697-082", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Meretu mmirika akɔ sukuu."}
+{"set": "crowd674", "id": "c697-083", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Asaw"}
+{"set": "crowd674", "id": "c697-084", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "asaw"}
+{"set": "crowd674", "id": "c697-085", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Sukuufo kɔ sukuu fi Dwoda kosi Fida"}
+{"set": "crowd674", "id": "c697-086", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Sukuufo kɔ sukuu fi Dwoda kosi Fida"}
+{"set": "crowd674", "id": "c697-087", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hena ne no?"}
+{"set": "crowd674", "id": "c697-088", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hena ne saa nipa no?"}
+{"set": "crowd674", "id": "c697-089", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hena ne wo?"}
+{"set": "crowd674", "id": "c697-090", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So ɔkwan no yɛ tee?"}
+{"set": "crowd674", "id": "c697-091", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mesrɛ wo, boa yɛn ma yɛnyɛ yɛn adwuma."}
+{"set": "crowd674", "id": "c697-092", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yesu yɛ Ɔkɛse."}
+{"set": "crowd674", "id": "c697-093", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo ho yɛ fɛ"}
+{"set": "crowd674", "id": "c697-094", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Woada anaa?"}
+{"set": "crowd674", "id": "c697-095", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mɛtumi de wo akɔ?"}
+{"set": "crowd674", "id": "c697-096", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Meyɛ adwuma wɔ ha"}
+{"set": "crowd674", "id": "c697-097", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo ho te sɛn?"}
+{"set": "crowd674", "id": "c697-098", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me ho ye"}
+{"set": "crowd674", "id": "c697-099", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bra Yesu nkyɛn"}
+{"set": "crowd674", "id": "c697-100", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me din de..."}
+{"set": "crowd674", "id": "c697-101", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Adɛn nti na wohwɛ me saa?"}
+{"set": "crowd674", "id": "c697-102", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mewɔ aniberesɛm"}
+{"set": "crowd674", "id": "c697-103", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nnipa pii wɔ saa kurow yi mu"}
+{"set": "crowd674", "id": "c697-104", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nnipa pii wɔ saa kurow yi mu"}
+{"set": "crowd674", "id": "c697-105", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnkɔ gua so nkɔtɔ afumduan kakra"}
+{"set": "crowd674", "id": "c697-106", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa nsu no gu bokiti no mu"}
+{"set": "crowd674", "id": "c697-107", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔbarima dwetɛ"}
+{"set": "crowd674", "id": "c697-108", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Gyae agoru no bɔ."}
+{"set": "crowd674", "id": "c697-109", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Onyankopɔn boa wɔn a wɔboa wɔn ho wɔn ho"}
+{"set": "crowd674", "id": "c697-110", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa krataa no ma w'agya"}
+{"set": "crowd674", "id": "c697-111", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Onyankopɔn ma mframa bɔ gu oguan ba a wɔatwa ne ti no so"}
+{"set": "crowd674", "id": "c697-113", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wunnim no"}
+{"set": "crowd674", "id": "c697-114", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ani agye"}
+{"set": "crowd674", "id": "c697-115", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Menni sika"}
+{"set": "crowd674", "id": "c697-116", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Awurade na ɔyɛɛ eyi"}
+{"set": "crowd674", "id": "c697-117", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mɛda"}
+{"set": "crowd674", "id": "c697-118", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "fa me ka ho"}
+{"set": "crowd674", "id": "c697-119", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wususuw sɛ woyɛ hwan?"}
+{"set": "crowd674", "id": "c697-120", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Merebɛkɔ asɔre"}
+{"set": "crowd674", "id": "c697-121", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Onyame nhyira wo"}
+{"set": "crowd674", "id": "c697-122", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo dɔ nti wobɛtumi awu"}
+{"set": "crowd674", "id": "c697-123", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Sɛ ɛnyɛ Onyankopɔn a"}
+{"set": "crowd674", "id": "c697-124", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'asetena mu dɔ"}
+{"set": "crowd674", "id": "c697-125", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ani gye m'abrabɔ ho"}
+{"set": "crowd674", "id": "c697-126", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Onyame nhyira wo"}
+{"set": "crowd674", "id": "c697-127", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Metena Mampong"}
+{"set": "crowd674", "id": "c697-128", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mabɔ mpae mprɛnsa dedaw."}
+{"set": "crowd674", "id": "c697-129", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Anwonwasɛm bɛn ara ni!"}
+{"set": "crowd674", "id": "c697-130", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me ho adwiriw me"}
+{"set": "crowd674", "id": "c697-131", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Merebɛkɔ adwuma"}
+{"set": "crowd674", "id": "c697-132", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nom nsu."}
+{"set": "crowd674", "id": "c697-134", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Abofra no ada"}
+{"set": "crowd674", "id": "c697-135", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Eyi ne nokware no"}
+{"set": "crowd674", "id": "c697-136", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Woadi mfe ahe?"}
+{"set": "crowd674", "id": "c697-137", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔkwasea"}
+{"set": "crowd674", "id": "c697-139", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo ho te sɛn?"}
+{"set": "crowd674", "id": "c697-140", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "me da wo ase"}
+{"set": "crowd674", "id": "c697-141", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mesrɛ wo, metumi ama wo nsu?"}
+{"set": "crowd674", "id": "c697-142", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Dɛn nti na moaba ha?"}
+{"set": "crowd674", "id": "c697-143", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Dɛn nti na moaba ha?"}
+{"set": "crowd674", "id": "c697-144", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ma menkyerɛ wo wo dan mu"}
+{"set": "crowd674", "id": "c697-145", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ababaawa"}
+{"set": "crowd674", "id": "c697-146", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Woadi mfe ahe?"}
+{"set": "crowd674", "id": "c697-147", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Woadi mfe ahe?"}
+{"set": "crowd674", "id": "c697-148", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Woadi mfe ahe?"}
+{"set": "crowd674", "id": "c697-149", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ade kyee pa"}
+{"set": "crowd674", "id": "c697-150", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo din de sɛn?"}
+{"set": "crowd674", "id": "c697-151", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Na wo nso ɛ?"}
+{"set": "crowd674", "id": "c697-152", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛhe na wote?"}
+{"set": "crowd674", "id": "c697-153", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Da bɛn na wobɛsan akɔ?"}
+{"set": "crowd674", "id": "c697-154", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ma yɛnkɔ kurow no mu"}
+{"set": "crowd674", "id": "c697-155", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnkɔfa taksi"}
+{"set": "crowd674", "id": "c697-156", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Meabrɛ"}
+{"set": "crowd674", "id": "c697-157", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "mayɛ asa"}
+{"set": "crowd674", "id": "c697-158", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ahohuru bere"}
+{"set": "crowd674", "id": "c697-159", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ewim yɛ hyew"}
+{"set": "crowd674", "id": "c697-160", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Metumi atɔ?"}
+{"set": "crowd674", "id": "c697-161", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ne boɔ da so ara yɛ den dodo, wo boɔ a etwa to yɛ sɛn?"}
+{"set": "crowd674", "id": "c697-162", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bra bio berɛ foforɔ"}
+{"set": "crowd674", "id": "c697-163", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Montwɛn me!"}
+{"set": "crowd674", "id": "c697-164", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mewɔ nna."}
+{"set": "crowd674", "id": "c697-165", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mframa a ano yɛ den no sɛee adan pii"}
+{"set": "crowd674", "id": "c697-166", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wobɛtumi de wo ho ato me so"}
+{"set": "crowd674", "id": "c697-167", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wubetumi aka ho asɛm akyerɛ me."}
+{"set": "crowd674", "id": "c697-168", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So asubɔnten no trɛw?"}
+{"set": "crowd674", "id": "c697-169", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa ma Onyankopɔn"}
+{"set": "crowd674", "id": "c697-170", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Cat no aguan"}
+{"set": "crowd674", "id": "c697-171", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hwɛ w'abusuafo yiye"}
+{"set": "crowd674", "id": "c697-172", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bra na yɛnkɔdi agroɔ"}
+{"set": "crowd674", "id": "c697-173", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me ho ye"}
+{"set": "crowd674", "id": "c697-174", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛhe na wowɔ?"}
+{"set": "crowd674", "id": "c697-175", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛhe na wowɔ?"}
+{"set": "crowd674", "id": "c697-176", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bɔne"}
+{"set": "crowd674", "id": "c697-177", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Meyɛ Ghanani."}
+{"set": "crowd674", "id": "c697-178", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So ɛte saa?"}
+{"set": "crowd674", "id": "c697-179", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me ho yɛ hu"}
+{"set": "crowd674", "id": "c697-180", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛyɛ da foforo"}
+{"set": "crowd674", "id": "c697-181", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nsa pii yɛ bɔne ma nipadua no"}
+{"set": "crowd674", "id": "c697-182", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bere bɛn na wobɛba abɛsra yɛn?"}
+{"set": "crowd674", "id": "c697-183", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me dɔfo"}
+{"set": "crowd674", "id": "c697-184", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mɛsi m'ankasa me fie wɔ asram abiɛsa mu."}
+{"set": "crowd674", "id": "c697-185", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ti abien ye sen biako"}
+{"set": "crowd674", "id": "c697-186", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ti abien ye sen biako"}
+{"set": "crowd674", "id": "c697-187", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hwɛ ansa na woapue"}
+{"set": "crowd674", "id": "c697-188", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nneɛma pa fi soro ba"}
+{"set": "crowd674", "id": "c697-189", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ti abien ye sen biako"}
+{"set": "crowd674", "id": "c697-190", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me werɛ ahow."}
+{"set": "crowd674", "id": "c697-191", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mente ase."}
+{"set": "crowd674", "id": "c697-192", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ani gye wo ho"}
+{"set": "crowd674", "id": "c697-193", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ne boɔ bɛyɛ sɛn?"}
+{"set": "crowd674", "id": "c697-194", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ne boɔ bɛyɛ sɛn?"}
+{"set": "crowd674", "id": "c697-195", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ne boɔ ne sɛn?"}
+{"set": "crowd674", "id": "c697-196", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Monkanee kyerɛwsɛm yi?"}
+{"set": "crowd674", "id": "c697-197", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So metumi anya nsu kakra?"}
+{"set": "crowd674", "id": "c697-198", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So metumi anya nsu kakra?"}
+{"set": "crowd674", "id": "c697-199", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mempɛ ɔhaw biara"}
+{"set": "crowd674", "id": "c697-200", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hena na wofa me sɛ meyɛ?"}
+{"set": "crowd674", "id": "c697-201", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Sɛn na wuhu me?"}
+{"set": "crowd674", "id": "c697-202", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Frɛ no ma me"}
+{"set": "crowd674", "id": "c697-203", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Frɛ no ma me"}
+{"set": "crowd674", "id": "c697-204", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mepawokyɛw"}
+{"set": "crowd674", "id": "c697-205", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mifi Ghana"}
+{"set": "crowd674", "id": "c697-206", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mene wiase hann."}
+{"set": "crowd674", "id": "c697-207", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ama redi asaw"}
+{"set": "crowd674", "id": "c697-208", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Meyɛ sukuuni"}
+{"set": "crowd674", "id": "c697-209", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Abofra yi ho akokwaw."}
+{"set": "crowd674", "id": "c697-210", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me din de Kwame"}
+{"set": "crowd674", "id": "c697-211", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Di w'aduan."}
+{"set": "crowd674", "id": "c697-212", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mewɔ mfe abien"}
+{"set": "crowd674", "id": "c697-213", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Atoro"}
+{"set": "crowd674", "id": "c697-214", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛhe na asɔredan no wɔ?"}
+{"set": "crowd674", "id": "c697-215", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Adwene"}
+{"set": "crowd674", "id": "c697-216", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Akwaaba"}
+{"set": "crowd674", "id": "c697-218", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Aane, me da wo ase"}
+{"set": "crowd674", "id": "c697-219", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛdeɛn na ɛrekɔ so?"}
+{"set": "crowd674", "id": "c697-220", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ma yɛnkɔ nom bi"}
+{"set": "crowd674", "id": "c697-221", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "yebehu mo akyiri yi"}
+{"set": "crowd674", "id": "c697-222", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bere bɛn?"}
+{"set": "crowd674", "id": "c697-223", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Anwumerɛ pa"}
+{"set": "crowd674", "id": "c697-224", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me din de kwasi"}
+{"set": "crowd674", "id": "c697-225", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Adɛn nti na wowɔ Ghana?"}
+{"set": "crowd674", "id": "c697-226", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mete Bolga"}
+{"set": "crowd674", "id": "c697-227", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mɛkɔ ɔkyena"}
+{"set": "crowd674", "id": "c697-228", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnkɔ"}
+{"set": "crowd674", "id": "c697-229", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mepɛ bɔs"}
+{"set": "crowd674", "id": "c697-231", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Medɔ wo"}
+{"set": "crowd674", "id": "c697-232", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "afe a ɛtɔ so mmienu"}
+{"set": "crowd674", "id": "c697-233", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ewim yɛ nwunu"}
+{"set": "crowd674", "id": "c697-235", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "okay, ma me 6 cedi"}
+{"set": "crowd674", "id": "c697-236", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "bɛsan aba adwuma foforo mu"}
+{"set": "crowd674", "id": "c697-237", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ani agye"}
+{"set": "crowd674", "id": "c697-239", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hena na ɔyɛɛ eyi anaa ɛno?"}
+{"set": "crowd674", "id": "c697-240", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So emu dɔ?"}
+{"set": "crowd674", "id": "c697-241", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Woyɛ adwuma pa."}
+{"set": "crowd674", "id": "c697-242", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ahwehwɛ no akyɛ dodo"}
+{"set": "crowd674", "id": "c697-243", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Twi kasa wɔ nsɛmfua pii"}
+{"set": "crowd674", "id": "c697-244", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yɛ eyi ma me"}
+{"set": "crowd674", "id": "c697-245", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔkɔm de wo anaa?"}
+{"set": "crowd674", "id": "c697-246", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ade kyee ma wo"}
+{"set": "crowd674", "id": "c697-247", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Aduane ahodoɔ"}
+{"set": "crowd674", "id": "c697-248", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ghana ahenkuro yɛ Accra."}
+{"set": "crowd674", "id": "c697-249", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo ho te sɛn?"}
+{"set": "crowd674", "id": "c697-250", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mewiee suapɔn"}
+{"set": "crowd674", "id": "c697-251", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔkɔm de me."}
+{"set": "crowd674", "id": "c697-252", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yaw Obeng yɛ ɔdaadaafo."}
+{"set": "crowd674", "id": "c697-253", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Sukuu ho hia ma mmofra ntetee."}
+{"set": "crowd674", "id": "c697-254", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nea wahwe ase no nsuro sɛ ɔbɛhwe ase"}
+{"set": "crowd674", "id": "c697-255", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nsuo a emu nni hwee yɛ den sen biara"}
+{"set": "crowd674", "id": "c697-256", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Sɛnea onipa dwen no, saa ara na ɔte"}
+{"set": "crowd674", "id": "c697-258", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yɛwɔ din a ɛsɛ sɛ yɛbɔ ho ban"}
+{"set": "crowd674", "id": "c697-260", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Adwuma bɛn na woyɛ?"}
+{"set": "crowd674", "id": "c697-261", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yohane ka kyerɛɛ wɔn sɛ:"}
+{"set": "crowd674", "id": "c697-262", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛyɛ me aniwu"}
+{"set": "crowd674", "id": "c697-263", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma w'ani nnye na kɔ w'anim"}
+{"set": "crowd674", "id": "c697-264", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "wunni obuo"}
+{"set": "crowd674", "id": "c697-265", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yebetumi aka ho asɛm?"}
+{"set": "crowd674", "id": "c697-266", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ahummɔbɔ ma wo"}
+{"set": "crowd674", "id": "c697-268", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Woadi anaa?"}
+{"set": "crowd674", "id": "c697-269", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Abofra yi nim nyansa."}
+{"set": "crowd674", "id": "c697-270", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wɔwoo me Memeneda"}
+{"set": "crowd674", "id": "c697-271", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa kanea no mu."}
+{"set": "crowd674", "id": "c697-272", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛhe na wote?"}
+{"set": "crowd674", "id": "c697-273", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛkwan biara nni ho"}
+{"set": "crowd674", "id": "c697-274", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bɛmaa yɛli nwɔhoalilɛ bie."}
+{"set": "crowd674", "id": "c697-275", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Adwumayɛ"}
+{"set": "crowd674", "id": "c697-276", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yeah, yeah, yeah, yeah"}
+{"set": "crowd674", "id": "c697-277", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me ho ye, me da wo ase"}
+{"set": "crowd674", "id": "c697-278", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Dabi, meda mo ase"}
+{"set": "crowd674", "id": "c697-279", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Merebɛsra mo"}
+{"set": "crowd674", "id": "c697-280", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛbɛyɛ sɛ woabrɛ"}
+{"set": "crowd674", "id": "c697-282", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "frɛ me w'agya."}
+{"set": "crowd674", "id": "c697-283", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Anadwo pa"}
+{"set": "crowd674", "id": "c697-284", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛhe na wofiri?"}
+{"set": "crowd674", "id": "c697-285", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mebaa ha sɛ merebɛyɛ adwuma"}
+{"set": "crowd674", "id": "c697-286", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛhe na woyɛ adwuma?"}
+{"set": "crowd674", "id": "c697-287", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ma yɛnkɔdidi"}
+{"set": "crowd674", "id": "c697-288", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛhe na yɛrekɔ?"}
+{"set": "crowd674", "id": "c697-289", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Merehwehwɛ wo"}
+{"set": "crowd674", "id": "c697-290", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "osukɔm de me"}
+{"set": "crowd674", "id": "c697-291", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ani agyina wo"}
+{"set": "crowd674", "id": "c697-292", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "omununkum bosome"}
+{"set": "crowd674", "id": "c697-293", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "anɔpa berɛ"}
+{"set": "crowd674", "id": "c697-294", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma me 10 cedis"}
+{"set": "crowd674", "id": "c697-295", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mɛfa no, me da wo ase"}
+{"set": "crowd674", "id": "c697-296", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Woaboa me paa, meda wo ase"}
+{"set": "crowd674", "id": "c697-297", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Daakye"}
+{"set": "crowd674", "id": "c697-298", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Minnim ho hwee"}
+{"set": "crowd674", "id": "c697-299", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So ɛkwan bi wɔ hɔ a wɔbɛfa so akɔ hɔ?"}
+{"set": "crowd674", "id": "c697-300", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Minnim ho hwee"}
+{"set": "crowd674", "id": "c697-301", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Esiane sɛ manhu Twi yiye nti, mekyerɛw Fante."}
+{"set": "crowd674", "id": "c697-302", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wiase no reyɛ hu."}
+{"set": "crowd674", "id": "c697-303", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Awurade ne me hwɛfo"}
+{"set": "crowd674", "id": "c697-304", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kɔtena ase"}
+{"set": "crowd674", "id": "c697-305", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ani abere sε m'ani bεgye Rice ho"}
+{"set": "crowd674", "id": "c697-306", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Adesua yɛ papa"}
+{"set": "crowd674", "id": "c697-307", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nnwom"}
+{"set": "crowd674", "id": "c697-308", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Onyankopɔn ne ɔhene."}
+{"set": "crowd674", "id": "c697-309", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me ho ye"}
+{"set": "crowd674", "id": "c697-310", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mɛka me nnamfonom ho asɛm akyerɛ wɔn"}
+{"set": "crowd674", "id": "c697-311", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo ho te sɛn?"}
+{"set": "crowd674", "id": "c697-312", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yɛfrɛ w'agya, ɛfiri sɛ ɛnnɛ yɛreyɛ akyi dodo."}
+{"set": "crowd674", "id": "c697-313", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nneɛma bɛn na wode reba?"}
+{"set": "crowd674", "id": "c697-314", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nna nyinaa nyɛ pɛ"}
+{"set": "crowd674", "id": "c697-316", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔkyena yɛ da foforo"}
+{"set": "crowd674", "id": "c697-318", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mehyia mo akyiri yi"}
+{"set": "crowd674", "id": "c697-319", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛhe na wufi bae?"}
+{"set": "crowd674", "id": "c697-320", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "W'ani gye me ho anaa?"}
+{"set": "crowd674", "id": "c697-321", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Na wɔsomaa sukuufo no"}
+{"set": "crowd674", "id": "c697-322", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me nsa aka"}
+{"set": "crowd674", "id": "c697-323", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Obiara nni hɔ a ɔkorɔn sen obiara"}
+{"set": "crowd674", "id": "c697-324", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "wo wɔ abirekyie anim"}
+{"set": "crowd674", "id": "c697-325", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mereyɛ no yie paa"}
+{"set": "crowd674", "id": "c697-326", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me dɔ a medɔ wo no to rentwa da"}
+{"set": "crowd674", "id": "c697-327", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ani da so yɛ m'adwenem"}
+{"set": "crowd674", "id": "c697-328", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Sɔreɛ!"}
+{"set": "crowd674", "id": "c697-329", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kofi yɛ ɔbea ho dɔfo."}
+{"set": "crowd674", "id": "c697-330", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'agya yɛ oguadini"}
+{"set": "crowd674", "id": "c697-331", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Akwaaba."}
+{"set": "crowd674", "id": "c697-332", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwame yɛ barima a wɔwoo no Memeneda"}
+{"set": "crowd674", "id": "c697-333", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Meda mo ase wɔ hokwan yi ho."}
+{"set": "crowd674", "id": "c697-334", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔpanyin"}
+{"set": "crowd674", "id": "c697-335", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Dabi"}
+{"set": "crowd674", "id": "c697-336", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kɛzi abusua ne de ɛ?"}
+{"set": "crowd674", "id": "c697-337", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔkwan bɛn na wofaa so kɔe?"}
+{"set": "crowd674", "id": "c697-339", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Da yie"}
+{"set": "crowd674", "id": "c697-340", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "siesie wo ho"}
+{"set": "crowd674", "id": "c697-342", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Daakye"}
+{"set": "crowd674", "id": "c697-343", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mifi Ghana"}
+{"set": "crowd674", "id": "c697-344", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Meyɛ akwantufo"}
+{"set": "crowd674", "id": "c697-345", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Meyɛ adwuma wɔ aban ahorow no mu"}
+{"set": "crowd674", "id": "c697-346", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ma yɛnkɔ gua so"}
+{"set": "crowd674", "id": "c697-347", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛhe na worekɔ?"}
+{"set": "crowd674", "id": "c697-349", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔkɔm de me"}
+{"set": "crowd674", "id": "c697-350", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mʼani nnye wo ho"}
+{"set": "crowd674", "id": "c697-351", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "osu retɔ"}
+{"set": "crowd674", "id": "c697-352", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "awiaberɛ"}
+{"set": "crowd674", "id": "c697-353", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ne bo yɛ den dodo, metumi de CEDI 5 ma"}
+{"set": "crowd674", "id": "c697-354", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "me da wo ase nso"}
+{"set": "crowd674", "id": "c697-355", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "ma mframa-hyeɛ-hyeɛ no nyɛ adwuma"}
+{"set": "crowd674", "id": "c697-356", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me yere"}
+{"set": "crowd674", "id": "c697-358", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Meyɛ ɔsɔfo"}
+{"set": "crowd674", "id": "c697-359", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yɛrekɔ yɛn baabi foforo"}
+{"set": "crowd674", "id": "c697-360", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo hann mu na yehu hann."}
+{"set": "crowd674", "id": "c697-361", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "sika sɛn na wode bɛtɔ?"}
+{"set": "crowd674", "id": "c697-362", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Okay, mesrɛ mo, momfa"}
+{"set": "crowd674", "id": "c697-363", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "m'ani gye ho sɛ mɛma"}
+{"set": "crowd674", "id": "c697-364", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mentumi ntua saa ka no"}
+{"set": "crowd674", "id": "c697-365", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Akwantu no bo bɛyɛ sɛn?"}
+{"set": "crowd674", "id": "c697-366", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mifi Ghana"}
+{"set": "crowd674", "id": "c697-368", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Aniwa"}
+{"set": "crowd674", "id": "c697-369", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bra ha seesei ara"}
+{"set": "crowd674", "id": "c697-370", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛhɔ ara"}
+{"set": "crowd674", "id": "c697-371", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kɔ"}
+{"set": "crowd674", "id": "c697-372", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔhemmaa"}
+{"set": "crowd674", "id": "c697-373", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔdɔ"}
+{"set": "crowd674", "id": "c697-374", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bra me nkyɛn ha! Bra me nkyɛn ha!"}
+{"set": "crowd674", "id": "c697-375", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So ɛyɛ bere a ɛsɛ sɛ yedidi?"}
+{"set": "crowd674", "id": "c697-376", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Merehwehwɛ bag ama me yere."}
+{"set": "crowd674", "id": "c697-377", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo nuabea panyin din de sɛn?"}
+{"set": "crowd674", "id": "c697-378", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Minnim baabi a Asamoah wɔ seesei."}
+{"set": "crowd674", "id": "c697-379", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwaku yɛ ɔkannifo."}
+{"set": "crowd674", "id": "c697-380", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mehia mpaboa foforo."}
+{"set": "crowd674", "id": "c697-381", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So wowɔ ahyɛnsode bi a metumi de agye sika?"}
+{"set": "crowd674", "id": "c697-382", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Biribi a ɛte saa rensi bio."}
+{"set": "crowd674", "id": "c697-383", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ani da so sɛ menya mo mmuae a ɛsɔ ani."}
+{"set": "crowd674", "id": "c697-384", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mempɛ sɛ obiara hu amane."}
+{"set": "crowd674", "id": "c697-385", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ne papa ba fie ntɛm bere nyinaa."}
+{"set": "crowd674", "id": "c697-386", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Minnye nni sɛ awia yi osu bɛtɔ."}
+{"set": "crowd674", "id": "c697-387", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka wo ho asɛm kakra kyerɛ me."}
+{"set": "crowd674", "id": "c697-388", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'adwuma fii me nsa Dwoda."}
+{"set": "crowd674", "id": "c697-389", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wɔabisa me sɛ memmoa wo."}
+{"set": "crowd674", "id": "c697-390", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wanyin wɔ akuraa ketewa bi mu."}
+{"set": "crowd674", "id": "c697-391", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛsom bo dodo."}
+{"set": "crowd674", "id": "c697-392", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Woyɛ tenten dodo."}
+{"set": "crowd674", "id": "c697-393", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Woyɛ tenten dodo."}
+{"set": "crowd674", "id": "c697-394", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔrebɔ mmɔden sɛ obegye ne ho afi mu."}
+{"set": "crowd674", "id": "c697-395", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wɔaka akyerɛ wo bere a ɛsɛ sɛ woba anaa?"}
+{"set": "crowd674", "id": "c697-396", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mewɔ dapɛn biako a mede bɛyɛ m'asɛde."}
+{"set": "crowd674", "id": "c697-397", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Saa mfiri yi nyinaa nyɛ nea wɔde wɔn ho to so."}
+{"set": "crowd674", "id": "c697-398", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwaku ani annye ho sɛ obehu me."}
+{"set": "crowd674", "id": "c697-399", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wɔpɛ biribi agyina so atu wo."}
+{"set": "crowd674", "id": "c697-400", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nokwasɛm ne sɛ, me ne wo nyɛ adwene."}
+{"set": "crowd674", "id": "c697-401", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwaku di sɛ prako."}
+{"set": "crowd674", "id": "c697-402", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔyɛ ɔbarima a ne ho yɛ fɛ."}
+{"set": "crowd674", "id": "c697-403", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wunni ho kwan sɛ wokɔ saa dan no mu."}
+{"set": "crowd674", "id": "c697-404", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwaku kae sɛ wabrɛ."}
+{"set": "crowd674", "id": "c697-405", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwaku ne Abena tɔɔ fie wɔ Boston afe a etwaam no."}
+{"set": "crowd674", "id": "c697-406", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "N'apampam ho agyiraehyɛde no ayɛ den sɛ ɛbɛda adi seesei."}
+{"set": "crowd674", "id": "c697-407", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ogyinaa ne ti so."}
+{"set": "crowd674", "id": "c697-408", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wɔrebɛhwehwɛ yɛn."}
+{"set": "crowd674", "id": "c697-409", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ná misusuw sɛ ɛyɛ mfomso sɛ mɛka ahintasɛm no akyerɛ Kwaku."}
+{"set": "crowd674", "id": "c697-410", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Atesɛm krataa no kae sɛ ahum kɛse bi rebobɔ ba."}
+{"set": "crowd674", "id": "c697-411", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mepɛ sɛ mihu Kwaku seesei ara."}
+{"set": "crowd674", "id": "c697-412", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwaku bɛba ha Dwoda."}
+{"set": "crowd674", "id": "c697-413", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wɔfirii ase few wɔn ho."}
+{"set": "crowd674", "id": "c697-414", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwaku ne onipa a ɔboaa Abena."}
+{"set": "crowd674", "id": "c697-415", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka kyerɛ no sɛ minim onii ko a ɔyɛ."}
+{"set": "crowd674", "id": "c697-416", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Woaba fie ntɛm."}
+{"set": "crowd674", "id": "c697-417", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔtee nka mpofirim sɛ ɔpɛ sɛ ɔkyerɛw nhoma bi."}
+{"set": "crowd674", "id": "c697-418", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Minni ahobammɔ."}
+{"set": "crowd674", "id": "c697-419", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Monyɛ den, mesrɛ mo."}
+{"set": "crowd674", "id": "c697-420", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ná misusuw sɛ Kwaku hia mmoa."}
+{"set": "crowd674", "id": "c697-421", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me ne wo bɛkɔ."}
+{"set": "crowd674", "id": "c697-422", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛduruu anadwo 10:00 no, na nnipa ɔhaha pii wɔ abɔnten."}
+{"set": "crowd674", "id": "c697-423", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Meda mo ase sɛ moama ntease a ɛnteɛ no mu ada hɔ."}
+{"set": "crowd674", "id": "c697-424", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ebinom susuw sɛ sɛ wodidi wɔ fie a, eye ma wo sen sɛ wubedi abɔnten."}
+{"set": "crowd674", "id": "c697-425", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔpɛ sɛ ɔnoa aduan ma n'abusua."}
+{"set": "crowd674", "id": "c697-426", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma me nyansahyɛ bi."}
+{"set": "crowd674", "id": "c697-427", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛnyɛ kar kɛse."}
+{"set": "crowd674", "id": "c697-428", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Akraman no kɔla yɛ kɔkɔɔ."}
+{"set": "crowd674", "id": "c697-429", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Metie awerɛhow nnwom mpɛn pii."}
+{"set": "crowd674", "id": "c697-430", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Dɛn na menka nkyerɛ Kwaku?"}
+{"set": "crowd674", "id": "c697-431", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yiw, woteɛ koraa."}
+{"set": "crowd674", "id": "c697-432", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwaku nnim saa nneɛma no ho hwee."}
+{"set": "crowd674", "id": "c697-433", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwaku sii gyinae sɛ obegyae sukuu na wakɔyɛ adwuma bere nyinaa."}
+{"set": "crowd674", "id": "c697-434", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mɛfrɛ wo ɔkyena anɔpa nnɔnwɔtwe."}
+{"set": "crowd674", "id": "c697-435", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Saa na nkurɔfo ka."}
+{"set": "crowd674", "id": "c697-436", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ani gye ho sɛ mɛwo, nanso mempɛ sɛ mɛwo wɔ ha."}
+{"set": "crowd674", "id": "c697-437", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Paw nea wopɛ biara fi eyinom mu."}
+{"set": "crowd674", "id": "c697-438", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Dɛn nti na ɛsɛ sɛ migye di?"}
+{"set": "crowd674", "id": "c697-439", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yɛn werɛ ahow sɛ yentumi nnye w'adesrɛ no ntom."}
+{"set": "crowd674", "id": "c697-440", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So wodɔ me ankasa?"}
+{"set": "crowd674", "id": "c697-441", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mfa wo ti nto asiane mu wɔ nkwaseasɛm bi ho."}
+{"set": "crowd674", "id": "c697-442", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bere bɛn na wopɛ sɛ mekɔfa wo?"}
+{"set": "crowd674", "id": "c697-443", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So wobɛpɛ chocolate ice cream kakra?"}
+{"set": "crowd674", "id": "c697-444", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Merenware da."}
+{"set": "crowd674", "id": "c697-445", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwaku nanabarima ne Abena nanabarima no boom koe wɔ Wiase Ko II no mu."}
+{"set": "crowd674", "id": "c697-446", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwaku ntumi ntɔ sukyerɛmma."}
+{"set": "crowd674", "id": "c697-447", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔwɔ Japan kar."}
+{"set": "crowd674", "id": "c697-448", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Meyɛɛ eyi maa wo."}
+{"set": "crowd674", "id": "c697-449", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwaku mpɛ sɛ ɔde ne ho hyehyɛ mu."}
+{"set": "crowd674", "id": "c697-450", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Metee akraman bi a ɔbobom wɔ akyirikyiri."}
+{"set": "crowd674", "id": "c697-451", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me awovolɛ a bɛvi England bɛrale Brazil wɔ ɛvolɛ 2001."}
+{"set": "crowd674", "id": "c697-452", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwaku redwene."}
+{"set": "crowd674", "id": "c697-453", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛnnɛ yɛ me awoda a ɛto so dunsia."}
+{"set": "crowd674", "id": "c697-454", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nneyɛe a ɛte saa no haw me."}
+{"set": "crowd674", "id": "c697-455", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Sɛ worekɔ baabiara a, ɛyɛ papa sɛ wobɛka akyerɛ wo maame ansa."}
+{"set": "crowd674", "id": "c697-456", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔyɛɛ Buddhasom honi bi wɔ nnua mu."}
+{"set": "crowd674", "id": "c697-457", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nnipa pii a wosua kasa foforo no dwen ho sɛ wɔbɛkasa te sɛ ɔmanfo."}
+{"set": "crowd674", "id": "c697-458", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Otumi bɔ violin, na ɛnyɛ piano nso."}
+{"set": "crowd674", "id": "c697-459", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Minnim onii a metumi abisa no afotu."}
+{"set": "crowd674", "id": "c697-460", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mepɛ sɛ mitie NPR."}
+{"set": "crowd674", "id": "c697-461", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "N'asɛm no maa obiara ani gyei."}
+{"set": "crowd674", "id": "c697-462", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wɔrenantew a wɔnhyɛ mpaboa."}
+{"set": "crowd674", "id": "c697-463", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ná mfonini a ɛwɔ atesɛm krataa no mu yɛ fɛ yiye."}
+{"set": "crowd674", "id": "c697-464", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwaku mpɛ sɛ ɔkɔ hɔ."}
+{"set": "crowd674", "id": "c697-466", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wɔrehwehwɛ adwuma nnɔnhwerew tiaa bi."}
+{"set": "crowd674", "id": "c697-467", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Minim baabi a mede me ho bɛto."}
+{"set": "crowd674", "id": "c697-468", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wuntumi mpa abaw."}
+{"set": "crowd674", "id": "c697-470", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Saa mpaboa yi sua dodo."}
+{"set": "crowd674", "id": "c697-471", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ani gye GhanaNLP ho"}
+{"set": "crowd674", "id": "c697-472", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ghana yɛ beae fɛ"}
+{"set": "crowd674", "id": "c697-473", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Momma yɛnyɛ eyi abom"}
+{"set": "crowd674", "id": "c697-474", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnhwɛ yɛn ho so yie"}
+{"set": "crowd674", "id": "c697-475", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Momma yɛn nyinaa mmɔ mu nsi yɛn man so"}
+{"set": "crowd674", "id": "c697-476", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wobɛba nnɛ anaa?"}
+{"set": "crowd674", "id": "c697-477", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Fa nsɛm pii ka ho wɔ ase ha na sɔ hwɛ"}
+{"set": "crowd674", "id": "c697-478", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Eyi yɛ nhoma."}
+{"set": "crowd674", "id": "c697-479", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Eyi nyɛ nhoma."}
+{"set": "crowd674", "id": "c697-480", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So eyi yɛ nhoma bi?"}
+{"set": "crowd674", "id": "c697-481", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Dɛn ne no?"}
+{"set": "crowd674", "id": "c697-482", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Eyi yɛ pɛnsere."}
+{"set": "crowd674", "id": "c697-483", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛnyɛ pɛnsere."}
+{"set": "crowd674", "id": "c697-484", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ogyafo no bubuu ɔpon no mu."}
+{"set": "crowd674", "id": "c697-485", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Seesei Akosua ani gye."}
+{"set": "crowd674", "id": "c697-486", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛnyɛ nnɔnhwerew bi."}
+{"set": "crowd674", "id": "c697-487", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ma yɛnhwɛ map no."}
+{"set": "crowd674", "id": "c697-488", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So woahu nsakrae bi?"}
+{"set": "crowd674", "id": "c697-489", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Akosua serew kyerɛɛ odwumayɛni no."}
+{"set": "crowd674", "id": "c697-490", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwabena ntumi nsiw ne mmanana biribiara."}
+{"set": "crowd674", "id": "c697-491", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So wopɛ sɛ woyɛ bartender wo nkwa nna nyinaa?"}
+{"set": "crowd674", "id": "c697-492", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Da biara na Adwoa de paanoo nkɛntɛn ma ahiafo na ɔhwɛ ayarefo."}
+{"set": "crowd674", "id": "c697-493", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwabena sɛee mmofra no anwea abantenten."}
+{"set": "crowd674", "id": "c697-494", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Dɔn 7 atwam."}
+{"set": "crowd674", "id": "c697-495", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔhemmaa no te Buckingham ahemfie."}
+{"set": "crowd674", "id": "c697-496", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mede dapɛn awiei no nyinaa suaa ade wɔ nhomakorabea."}
+{"set": "crowd674", "id": "c697-497", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛhe na ɛsɛ sɛ mede me nneɛma gu?"}
+{"set": "crowd674", "id": "c697-498", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wɔasiesie wɔn ho."}
+{"set": "crowd674", "id": "c697-499", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nhomakorabea no wɔ kurow no mfinimfini."}
+{"set": "crowd674", "id": "c697-500", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mepɛ sɛ metua ka akyiri yi."}
+{"set": "crowd674", "id": "c697-501", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So worehwehwɛ obi?"}
+{"set": "crowd674", "id": "c697-502", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wowɔ nkrasɛm bi."}
+{"set": "crowd674", "id": "c697-503", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So woakae sɛ wobɛtew gas no?"}
+{"set": "crowd674", "id": "c697-504", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛwɔ nea ɛfa ɔhaw yi ho."}
+{"set": "crowd674", "id": "c697-505", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwabena wɔ nnamfo a wɔwɔ tumi pii."}
+{"set": "crowd674", "id": "c697-506", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me papa nni fie."}
+{"set": "crowd674", "id": "c697-507", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Na Kwabena nom nnubɔne."}
+{"set": "crowd674", "id": "c697-508", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mewɔ adwene pa sɛ mesua ade wɔ amannɔne."}
+{"set": "crowd674", "id": "c697-509", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So biribi wɔ hɔ a wopɛ sɛ woka kyerɛ Kwabena?"}
+{"set": "crowd674", "id": "c697-510", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wopɛ sɛ wo ne me kɔ apontow ase anadwo yi?"}
+{"set": "crowd674", "id": "c697-511", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kofi taa boa me ma meyɛ m'asɛde."}
+{"set": "crowd674", "id": "c697-512", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ani gye ho sɛ mɛyɛ adwuma nkutoo."}
+{"set": "crowd674", "id": "c697-513", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛnyɛ Kofi na osii gya no."}
+{"set": "crowd674", "id": "c697-514", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Merebɔ mmɔden sɛ mɛboa wo ma woayɛ onipa pa."}
+{"set": "crowd674", "id": "c697-515", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So ɛrenyɛ papa sɛ me ne wo bɛkɔ?"}
+{"set": "crowd674", "id": "c697-516", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yennya simma abiɛsa biara."}
+{"set": "crowd674", "id": "c697-517", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Minnye nni sɛ Kofi ani gye ho."}
+{"set": "crowd674", "id": "c697-518", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kofi kɔ Boston bere ne bere mu."}
+{"set": "crowd674", "id": "c697-519", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Krataa pii retwɛn wo."}
+{"set": "crowd674", "id": "c697-520", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mefrɛɛ me nnamfonom baa hɔ sɛ yɛmmɛnom kɔfe."}
+{"set": "crowd674", "id": "c697-521", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛyaw no reyɛ kɛse."}
+{"set": "crowd674", "id": "c697-522", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Aban no afa akwan bi so de ahyɛ ɔman mu mfiridwuma den."}
+{"set": "crowd674", "id": "c697-523", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mewɔ abansoro dan no so."}
+{"set": "crowd674", "id": "c697-524", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mframa no yɛ nwini."}
+{"set": "crowd674", "id": "c697-525", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kofi kae sɛ ne nsɛm asekyerɛ nhoma no wɔ ne bag mu."}
+{"set": "crowd674", "id": "c697-526", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me ne Ama bɔɔ nkɔmmɔ ma m'ani gyei."}
+{"set": "crowd674", "id": "c697-527", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mintumi nsi gyinae m'ankasa."}
+{"set": "crowd674", "id": "c697-528", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Minnye nni sɛ wɔmaa me kwan sɛ mɛpaw."}
+{"set": "crowd674", "id": "c697-529", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Te apɔwmudua no sɛn?"}
+{"set": "crowd674", "id": "c697-530", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So wobɛsua Franse kasa?"}
+{"set": "crowd674", "id": "c697-531", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nnipa a wɔwɔ soro no san ba fie anadwo."}
+{"set": "crowd674", "id": "c697-532", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ama ani gye bɔɔlbɔ ho."}
+{"set": "crowd674", "id": "c697-533", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So wunnya mmaa saa nhoma no bio?"}
+{"set": "crowd674", "id": "c697-534", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛduruu baabi no, Ama nyaa nnubɔne bebree ma owui."}
+{"set": "crowd674", "id": "c697-535", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mekenkan nhoma pii."}
+{"set": "crowd674", "id": "c697-536", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mesrɛ wo, frɛ ambulansi."}
+{"set": "crowd674", "id": "c697-537", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ama yɛ adwuma yiye."}
+{"set": "crowd674", "id": "c697-538", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yebefi hɔ."}
+{"set": "crowd674", "id": "c697-539", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wohwɛ a, mfe ahe na Ama adi?"}
+{"set": "crowd674", "id": "c697-540", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ama de abɔ violin bɛboro mfe aduasa."}
+{"set": "crowd674", "id": "c697-541", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛnyɛ obiara na n'ani gye eyi ho."}
+{"set": "crowd674", "id": "c697-542", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Owia no retɔ fam."}
+{"set": "crowd674", "id": "c697-543", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wɔkyeree Ama."}
+{"set": "crowd674", "id": "c697-544", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔwɔ nnipa pii a onim wɔn nanso n'adamfo kakraa bi."}
+{"set": "crowd674", "id": "c697-545", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Anka mɛkɔ."}
+{"set": "crowd674", "id": "c697-546", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛno ne wo haw a ɛsen biara."}
+{"set": "crowd674", "id": "c697-547", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ne nuabea no te Scotland."}
+{"set": "crowd674", "id": "c697-548", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nea wɔyɛe no yɛ bɔne."}
+{"set": "crowd674", "id": "c697-549", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ebia anka ɛsɛ sɛ me ne Ama kasa."}
+{"set": "crowd674", "id": "c697-550", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mede me camera no maa no sɛ ɔmfa nnye n'ani."}
+{"set": "crowd674", "id": "c697-551", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Migye di sɛ mo nyinaa begye atom."}
+{"set": "crowd674", "id": "c697-552", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mɛtɔ me ho were."}
+{"set": "crowd674", "id": "c697-553", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛsɛ sɛ meba fie adidi."}
+{"set": "crowd674", "id": "c697-554", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔko ka yɛn nyinaa."}
+{"set": "crowd674", "id": "c697-555", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Abena hweree ne nneɛma dodow no ara wɔ ogya no mu."}
+{"set": "crowd674", "id": "c697-556", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Woyɛ nnipa a wɔwɔ mfonini yi mu biako."}
+{"set": "crowd674", "id": "c697-557", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Na ɛsɛ sɛ wofi ase fi mfiase."}
+{"set": "crowd674", "id": "c697-558", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Na ɛsɛ sɛ wofi ase fi mfiase."}
+{"set": "crowd674", "id": "c697-559", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yɛamfa Abena din anni dwuma bere a na yɛresoma nsato nkrataa no."}
+{"set": "crowd674", "id": "c697-560", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Abena hyɛɛ bɔ sɛ ɔbɛba fie ntɛm anadwo yi."}
+{"set": "crowd674", "id": "c697-561", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So na wopɛ sɛ wuhu me?"}
+{"set": "crowd674", "id": "c697-562", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nka no ɔkwan a ɛmfata so."}
+{"set": "crowd674", "id": "c697-563", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛkyɛn sɛ wobɛyɛ ohufo a ɔte ase sen sɛ wobɛyɛ ɔkannifo a wawu."}
+{"set": "crowd674", "id": "c697-564", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ogyinaa hɔ na ɔhomee ne mu denneennen."}
+{"set": "crowd674", "id": "c697-565", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mewɔ anantwi 1,500."}
+{"set": "crowd674", "id": "c697-566", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Migye di sɛ Abena ho dwiriw no."}
+{"set": "crowd674", "id": "c697-567", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛyɛ me bere sɛ mɛhohoro nneɛma."}
+{"set": "crowd674", "id": "c697-568", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ná mogya wɔ fam hɔ baabiara."}
+{"set": "crowd674", "id": "c697-569", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mebaa ha sɛ merebesua Franse kasa."}
+{"set": "crowd674", "id": "c697-570", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Merentumi nkamfo wo yiye."}
+{"set": "crowd674", "id": "c697-571", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nea odi kan ba no, ɔno na odi kan ba."}
+{"set": "crowd674", "id": "c697-572", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Abarimaa no bɔɔ mmɔden sɛ ɔbɛyɛ ɔbarima na wansu."}
+{"set": "crowd674", "id": "c697-573", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Memmue me ho da."}
+{"set": "crowd674", "id": "c697-574", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ná Kwame ani agyina ne yere ne ne mma."}
+{"set": "crowd674", "id": "c697-575", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ná makɔfa no da a edi kan no."}
+{"set": "crowd674", "id": "c697-576", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So wopɛ sɛ wosiw Kwame kwan?"}
+{"set": "crowd674", "id": "c697-577", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mfe ahe na piano yi adi?"}
+{"set": "crowd674", "id": "c697-578", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Meyɛ ɔpanyin dedaw."}
+{"set": "crowd674", "id": "c697-579", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ani gye m'adwuma ho."}
+{"set": "crowd674", "id": "c697-580", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ná ɛsɛ sɛ ɔda mpa so."}
+{"set": "crowd674", "id": "c697-581", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Saa na misusuw sɛ woaka."}
+{"set": "crowd674", "id": "c697-582", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "To dwom foforo ma yɛn."}
+{"set": "crowd674", "id": "c697-583", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wɔfrɛ no dɛn?"}
+{"set": "crowd674", "id": "c697-584", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛte sɛ nea Kwame betumi adi nkonim."}
+{"set": "crowd674", "id": "c697-585", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwame tuu Adwoa fo sɛ ɔmmoa John."}
+{"set": "crowd674", "id": "c697-586", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwame de bɔs ne keteke na ɛkɔ sukuu."}
+{"set": "crowd674", "id": "c697-587", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛbɛyɛ sɛ yɛn ho bɛtɔ yɛn."}
+{"set": "crowd674", "id": "c697-588", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Na Kwame ne Adwoa yɛ nnamfo pa."}
+{"set": "crowd674", "id": "c697-589", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Dɛn na ɛbɛhwehwɛ na ama wɔatumi agye wo adi?"}
+{"set": "crowd674", "id": "c697-590", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka no wɔ Franse kasa mu."}
+{"set": "crowd674", "id": "c697-591", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwame, oyi ne me wɔfa."}
+{"set": "crowd674", "id": "c697-592", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wɔhyehyɛ bere ne baabi a wobedi ayeforo no."}
+{"set": "crowd674", "id": "c697-593", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Obi bobɔɔ pon no so."}
+{"set": "crowd674", "id": "c697-594", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ná obiara nim saa."}
+{"set": "crowd674", "id": "c697-595", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Dɛn nti na wokɔ so ma no sika?"}
+{"set": "crowd674", "id": "c697-596", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwame ntade no asa."}
+{"set": "crowd674", "id": "c697-597", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Afei na ne nyinaa aba mu."}
+{"set": "crowd674", "id": "c697-598", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wɔwaree wɔ Buronya Anwummere."}
+{"set": "crowd674", "id": "c697-599", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ná misusuw sɛ woagyae Kwame a wo ne no nam no."}
+{"set": "crowd674", "id": "c697-600", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔtaa bɔ ne nsateaa."}
+{"set": "crowd674", "id": "c697-601", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwame renyɛ wo hwee da."}
+{"set": "crowd674", "id": "c697-602", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Abofra no fii ase sui."}
+{"set": "crowd674", "id": "c697-603", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Na Kwame da mpa no so."}
+{"set": "crowd674", "id": "c697-604", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wo ne mmarima yi nkɔ."}
+{"set": "crowd674", "id": "c697-605", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Apataa bi huruw fii nsu no mu."}
+{"set": "crowd674", "id": "c697-606", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mede yen 3,000 tɔ CD foforo."}
+{"set": "crowd674", "id": "c697-607", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Kwame reba anwummere yi."}
+{"set": "crowd674", "id": "c697-608", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So woate biribi a ɛte saa pɛn?"}
+{"set": "crowd674", "id": "c697-609", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Adwoa ne Pokua ani gye wɔn kokoam nsɛm ho."}
+{"set": "crowd674", "id": "c697-610", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mekae sɛ mihuu no pɛn."}
+{"set": "crowd674", "id": "c697-611", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yedii nkontaabu sɛ ɛsɛ sɛ yɛboa saa kuw no."}
+{"set": "crowd674", "id": "c697-612", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Adan akɛse wɔ abɔnten no ho."}
+{"set": "crowd674", "id": "c697-613", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔwɔ Picasso bi."}
+{"set": "crowd674", "id": "c697-614", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Pokua da so rehwehwɛ Adwoa."}
+{"set": "crowd674", "id": "c697-615", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Pokua hwɛɛ Adwoa."}
+{"set": "crowd674", "id": "c697-616", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɔte Yokohama."}
+{"set": "crowd674", "id": "c697-617", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Paw abien yi mu biako."}
+{"set": "crowd674", "id": "c697-618", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛno nyɛ biribi pa biara."}
+{"set": "crowd674", "id": "c697-619", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛsɛ sɛ Pokua susuw ho yiye sɛ ɔpɛ awaregyae ampa anaasɛ ɔmpɛ."}
+{"set": "crowd674", "id": "c697-620", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yɛpɛ yɛn sika no san."}
+{"set": "crowd674", "id": "c697-621", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "So nea wowɔ nyinaa wɔ adaka no mu?"}
+{"set": "crowd674", "id": "c697-622", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Daakye no, bɔ mmɔden sɛ wobɛkɔ adwuma bere mu."}
+{"set": "crowd674", "id": "c697-623", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ná Pokua mpɛ sɛ obu Adwoa animtiaa."}
+{"set": "crowd674", "id": "c697-624", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Misuro sɛ ɛrenyɛ mmerɛw saa."}
+{"set": "crowd674", "id": "c697-625", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Saa peaw yi ano yɛ den."}
+{"set": "crowd674", "id": "c697-626", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mesrɛ wo, metumi anya sika no?"}
+{"set": "crowd674", "id": "c697-627", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Pokua de ahwɛyiye yɛɛ saa."}
+{"set": "crowd674", "id": "c697-628", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Pokua bɛkɔ so atra ase."}
+{"set": "crowd674", "id": "c697-629", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Pokua rebɛware Pokua ɔkyena."}
+{"set": "crowd674", "id": "c697-630", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yaw kae sɛ wabrɛ dodo sɛ ɔbɛbɔ asaw."}
+{"set": "crowd674", "id": "c697-631", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yaw rehaw Adwoa."}
+{"set": "crowd674", "id": "c697-632", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yaw yɛ ɔpanyin."}
+{"set": "crowd674", "id": "c697-633", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛno yɛ ɔhaw kɛse."}
+{"set": "crowd674", "id": "c697-634", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Maka akyerɛ wo sɛ mfrɛ me Yaw."}
+{"set": "crowd674", "id": "c697-635", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mempɛ sɛ wubebua."}
+{"set": "crowd674", "id": "c697-636", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛhe na wo nsa ano ahyɛnsode wɔ?"}
+{"set": "crowd674", "id": "c697-637", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yɛtenaa hotɛl bi a ne bo nyɛ den mu."}
+{"set": "crowd674", "id": "c697-638", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wubetumi de mpaboa abrɛ me?"}
+{"set": "crowd674", "id": "c697-639", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yaw ntumi nhow n'ahome."}
+{"set": "crowd674", "id": "c697-640", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Sɛ wuwie a, ma wɔnsan mma me."}
+{"set": "crowd674", "id": "c697-641", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yaw reka nea ɛda adi pefee no ho asɛm kɛkɛ."}
+{"set": "crowd674", "id": "c697-642", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Minnim nea ɛbaa Yaw so."}
+{"set": "crowd674", "id": "c697-643", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yɛkɔɔ tete akorae."}
+{"set": "crowd674", "id": "c697-644", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wopɛ sɛ wohwehwɛ mu?"}
+{"set": "crowd674", "id": "c697-645", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mempɛ sɛ mede me ho bɛto asiane biara mu."}
+{"set": "crowd674", "id": "c697-646", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ka kyerɛ Yaw sɛ ɔntwɛn kakra."}
+{"set": "crowd674", "id": "c697-647", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wuntumi nyɛ eyi."}
+{"set": "crowd674", "id": "c697-648", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wɔapam me esiane sɛ na metaa ba adwuma akyi nti."}
+{"set": "crowd674", "id": "c697-649", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Misusuw sɛ nea ehia wo seesei ne sɛ wubedi biribi."}
+{"set": "crowd674", "id": "c697-650", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Owui bere a na wadi mfe 54."}
+{"set": "crowd674", "id": "c697-651", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yebetumi asiesie yɛn ho."}
+{"set": "crowd674", "id": "c697-652", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me ti da so yɛ me yaw."}
+{"set": "crowd674", "id": "c697-653", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mewɔ ɔkorow koro no ara mu."}
+{"set": "crowd674", "id": "c697-654", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yaw de krataa a efi Santa Claus hɔ kyerɛɛ no."}
+{"set": "crowd674", "id": "c697-655", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yɛde yɛn ho hoahoa yɛn ho."}
+{"set": "crowd674", "id": "c697-656", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ná ɛyɛ basabasayɛ ankasa."}
+{"set": "crowd674", "id": "c697-657", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nnipa a wɔwɔ kurow no mu nyinaa nim no."}
+{"set": "crowd674", "id": "c697-658", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Memmisaa Yaw sɛ ɔnkɔ hɔ."}
+{"set": "crowd674", "id": "c697-659", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yaw yɛ onipa bɔne."}
+{"set": "crowd674", "id": "c697-660", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ahoɔyaw na ɛkaa no ma okum no."}
+{"set": "crowd674", "id": "c697-661", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛbɛyɛ sɛ afifide no wuwui efisɛ obiara amfa nsu annom wɔn."}
+{"set": "crowd674", "id": "c697-662", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yaw nkae nea esii anadwo a etwaam no mpo."}
+{"set": "crowd674", "id": "c697-663", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mepa wo kyɛw sɛ mama wotwɛnee bere tenten saa."}
+{"set": "crowd674", "id": "c697-664", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Saa atade yi fata wo."}
+{"set": "crowd674", "id": "c697-665", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yaw nnim ho hwee."}
+{"set": "crowd674", "id": "c697-666", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Na ɔretie nnwom wɔ ne dan mu."}
+{"set": "crowd674", "id": "c697-667", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mesrɛ wo, kyerɛ me baabi a bɔs gyinabea no wɔ."}
+{"set": "crowd674", "id": "c697-668", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nhoma a worehwehwɛ no ni."}
+{"set": "crowd674", "id": "c697-669", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ná mempɛ sɛ mekɔ, nanso na ɛsɛ sɛ mekɔ."}
+{"set": "crowd674", "id": "c697-670", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Biribiara nni dan no mu bio."}
+{"set": "crowd674", "id": "c697-671", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yaw bɛsan aba ɔkyena."}
+{"set": "crowd674", "id": "c697-672", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ehia sɛ yɛkenkan saa nhoma yi pɛnkoro."}
+{"set": "crowd674", "id": "c697-673", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mididi wie a, mɛkɔ."}
+{"set": "crowd674", "id": "c697-674", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Efi bere bɛn na Yaw yaree?"}
+{"set": "crowd674", "id": "c697-675", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Bue wo nhoma no mu kɔ kratafa 59."}
+{"set": "crowd674", "id": "c697-676", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mepa wo kyɛw sɛ mereyɛ akyi."}
+{"set": "crowd674", "id": "c697-677", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mepɛ sɛ mihu w'adwene."}
+{"set": "crowd674", "id": "c697-678", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Eyi ara dɔɔso ma nnɛ, mabrɛ."}
+{"set": "crowd674", "id": "c697-679", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Wonim Yaw yiye sɛ odwontofo."}
+{"set": "crowd674", "id": "c697-680", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Nea Yaw kae no yɛ nokware."}
+{"set": "crowd674", "id": "c697-681", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yaw wɔ se pa."}
+{"set": "crowd674", "id": "c697-682", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me mmanana kɔ sukuu yi bi."}
+{"set": "crowd674", "id": "c697-683", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mewe nkosua daa sɛ anwummere aduan."}
+{"set": "crowd674", "id": "c697-684", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Migye di sɛ Yaw nyɛ oduruyɛfo ankasa."}
+{"set": "crowd674", "id": "c697-685", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "M'ani nnye m'animho."}
+{"set": "crowd674", "id": "c697-686", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yaw kyerɛw too hɔ."}
+{"set": "crowd674", "id": "c697-687", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ansa na yɛbɛkɔ no yɛ ntɛm."}
+{"set": "crowd674", "id": "c697-688", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yaw nya sika mmɔho abiɛsa sen me."}
+{"set": "crowd674", "id": "c697-689", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Mempɛ sɛ mede wimhyɛn tu kwan."}
+{"set": "crowd674", "id": "c697-690", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Na biribi wɔ hɔ a ɛsɛ sɛ mekɔtɔ wɔ sotɔɔ mu, nanso me werɛ fii sɛ megye."}
+{"set": "crowd674", "id": "c697-691", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Ɛyɛ me nwanwa sɛ adɛn nti na odwen ho saa."}
+{"set": "crowd674", "id": "c697-692", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Migye di sɛ ahwehwɛde ne adebɔ maame."}
+{"set": "crowd674", "id": "c697-693", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Me bag no ayɛ dedaw dodo. Ɛsɛ sɛ metɔ foforo."}
+{"set": "crowd674", "id": "c697-694", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Hena na obisaa wo?"}
+{"set": "crowd674", "id": "c697-695", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Yaw daa hatee anadwo nyinaa susuw Adwoa ho."}
+{"set": "crowd674", "id": "c697-696", "model": "facebook/nllb-200-1.3B", "target": "aka_Latn", "candidate": "Worensɛe wo bere."}

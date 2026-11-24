@@ -1,0 +1,26 @@
+[
+  {
+    "set": "crowd674",
+    "n": 674,
+    "a": "claude-sonnet-5|prompt:Akuapem",
+    "b": "facebook/nllb-200-3.3B|aka_Latn",
+    "iterations": 10000,
+    "seed": 20261124,
+    "mean_chrf_diff_a_minus_b": {
+      "observed": 1.89,
+      "ci95": [
+        0.05,
+        3.73
+      ],
+      "p_a_not_better": 0.0216
+    },
+    "usable_pct_diff_a_minus_b": {
+      "observed": 1.63,
+      "ci95": [
+        -2.08,
+        5.34
+      ],
+      "p_a_not_better": 0.1986
+    }
+  }
+]

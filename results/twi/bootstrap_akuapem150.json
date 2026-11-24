@@ -1,0 +1,26 @@
+[
+  {
+    "set": "akuapem150",
+    "n": 150,
+    "a": "facebook/nllb-200-3.3B|aka_Latn",
+    "b": "claude-sonnet-5|prompt:Akuapem",
+    "iterations": 10000,
+    "seed": 20261124,
+    "mean_chrf_diff_a_minus_b": {
+      "observed": 2.28,
+      "ci95": [
+        -1.6,
+        6.1
+      ],
+      "p_a_not_better": 0.126
+    },
+    "usable_pct_diff_a_minus_b": {
+      "observed": 6.0,
+      "ci95": [
+        -1.33,
+        13.33
+      ],
+      "p_a_not_better": 0.0715
+    }
+  }
+]
