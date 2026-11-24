@@ -1,4 +1,4 @@
-MIT License (applies to the code in scripts/)
+MIT License
 
 Copyright (c) 2026 Timothy Aguya Akasiya (Rootabytes)
 
@@ -19,6 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-The test sets in data/ are CC BY 4.0 by their original authors (see data/twi/README.md).
-Outputs and scores in outputs/ and results/ are CC BY 4.0, subject also to each model's own terms.
